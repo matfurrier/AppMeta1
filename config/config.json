@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Fer&ma2305",
+      "database": "metaapp",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "Fer&ma2305",
+      "database": "metaapp",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "Fer&ma2305",
+      "database": "metaapp",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+  
